@@ -2,3 +2,17 @@
   margin: 0;
   box-sizing: border-box;
 }
+
+body {
+  background: rgb(63, 124, 104);
+}
+
+.socials {
+  list-style-type: none;
+  display: flex;
+  gap: 1rem;
+}
+
+.socials img {
+  width: 50px;
+}
